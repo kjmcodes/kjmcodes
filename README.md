@@ -1,5 +1,5 @@
 ## Hi, I'm Kevin!
-I leverage 6 years of experience in technical writing and software engineering to improve developer experience and build strong communities.
+I leverage 6 years of experience in technical writing and software engineering to improve the developer experience and build strong communities.
 
 My duties involve crafting technical documentation, supplementary educational and promotional content, and providing technical support as needed.
 
